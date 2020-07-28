@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const FooterBase = styled.footer`
-  background: "#141414";
+  background: black;
 
   padding-left: 16px;
   padding-right: 16px;
@@ -10,6 +10,7 @@ export const FooterBase = styled.footer`
   padding-bottom: 32px;
   color: var(--white);
   text-align: center;
+  
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
