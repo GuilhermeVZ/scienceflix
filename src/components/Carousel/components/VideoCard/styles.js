@@ -9,7 +9,7 @@ export const VideoCardContainer = styled.a`
   color: white;
   flex: 0 0 298px;
   width: 298px;
-  height: 197px;
+  height: 169px;
   background-image: ${({ url }) => `url(${url})`};
   background-size: cover;
   background-position: center;
@@ -24,7 +24,7 @@ export const VideoCardContainer = styled.a`
   &:focus {
     opacity: .5;
   }
-  
+
   &:not(:first-child) {
     margin-left: 20px;
   }

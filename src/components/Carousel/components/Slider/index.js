@@ -33,7 +33,7 @@ export const SliderItem = styled.li`
   img {
     margin: 16px;
     width: 298px;
-    height: 197px;
+    height: 169px;
     object-fit: cover;
   }
 `;
@@ -55,4 +55,4 @@ const Slider = ({ children }) => (
   </Container>
 );
 
-export default Slider; 
+export default Slider;
