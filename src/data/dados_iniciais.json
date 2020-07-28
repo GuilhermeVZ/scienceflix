@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "titulo": "Física",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Curso gratuito de Física Básica",
+        "url": "https://www.youtube.com/playlist?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm"
+      },
+      "videos": [
+        {
+          "titulo": "Onde nasce a Ciência?",
+          "url": "https://www.youtube.com/watch?v=r7h7lMJhpLI"
+        },
+        {
+          "titulo": "O que é o Tempo?",
+          "url": "https://www.youtube.com/watch?v=4GGS9XQpbkM"
+        },
+        {
+          "titulo": "O que é a Gravidade?",
+          "url": "https://www.youtube.com/watch?v=1vcYaSGhYZ0"
+        },
+        {
+          "titulo": "O que é temperatura?",
+          "url": "https://www.youtube.com/watch?v=8fo8_m-qP9M&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=14&t=0s"
+        },
+        {
+          "titulo": "O que é o som?",
+          "url": "https://www.youtube.com/watch?v=WLM6-By0qBg&list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&index=19&t=268s"
+        },
+        {
+          "titulo": "O que é um Acelerador de Partículas?",
+          "url": "https://www.youtube.com/watch?v=iTQLpDsVz7c"
+        },
+        {
+          "titulo": "O que é o Modelo Padrão?",
+          "url": "https://www.youtube.com/watch?v=hA6zz_q45lI"
+        },
+        {
+          "titulo": "O que é Física Quântica?",
+          "url": "https://www.youtube.com/watch?v=eA1E2HGdbKg"
+        }
+      ]
+    },
+    {
+      "titulo": "Química",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Curso gratuito de Química Básica",
+        "url": "https://www.youtube.com/playlist?list=PL0LfmDSptaT3Lvnf-YsUI18pzihaLPARU"
+      },
+      "videos": [
+        {
+          "titulo": "A química de Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=uhnz7r9BQ8o"
+        },
+        {
+          "titulo": "A Tabela Periódica",
+          "url": "https://www.youtube.com/watch?v=qS1yXfh_6is"
+        },
+        {
+          "titulo": "O Átomo",
+          "url": "https://www.youtube.com/watch?v=TKEOWch5kXE"
+        },
+        {
+          "titulo": "Ácidos e Bases",
+          "url": "https://www.youtube.com/watch?v=26GpgTk8IqA"
+        },
+        {
+          "titulo": "Modelos Atômicos",
+          "url": "https://www.youtube.com/watch?v=kT2sHBF9Q3k"
+        }
+      ]
+    },
+    {
+      "titulo": "Biologia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Curso gratuito de Biologia",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Evolução Humana",
+          "url": "https://www.youtube.com/watch?v=Comf5vc56zc"
+        },
+        {
+          "titulo": "Relações Ecológicas",
+          "url": "https://www.youtube.com/watch?v=9Xp7OzeDpcw"
+        },
+        {
+          "titulo": "Mitose",
+          "url": "https://www.youtube.com/watch?v=zvr7O5tqNiY"
+        },
+        {
+          "titulo": "Cerrado - Biomas do Brasil",
+          "url": "https://www.youtube.com/watch?v=J86C1KT5x4Q"
+        },
+        {
+          "titulo": "Entenda o Coronavírus",
+          "url": "https://www.youtube.com/watch?v=y9onKICh6Uc"
+        }
+      ]
+    },
+    {
+      "titulo": "Ciência da Computação",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Nerdologia Tech",
+        "url": "https://www.youtube.com/watch?v=w3NcXc4NiAs&list=PLyRcl7Q37-DU9HA99_Ob9Vh7M0nQw8pNV"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Ciência da Computação",
+          "url": "https://www.youtube.com/watch?v=XJok-TJi5zQ"
+        },
+        {
+          "titulo": "O que são Transistors?",
+          "url": "https://www.youtube.com/watch?v=vYIVtOB-4xQ"
+        },
+        {
+          "titulo": "Os primeiros computadores",
+          "url": "https://www.youtube.com/watch?v=Vb0iORewZDA"
+        },
+        {
+          "titulo": "Como funcionam os jogos?",
+          "url": "https://www.youtube.com/watch?v=Tz_IOs1XgP0"
+        },
+        {
+          "titulo": "Árvore de Dados",
+          "url": "https://www.youtube.com/watch?v=Y8j892-qg-4"
+        }
+      ]
+    },
+    {
+      "titulo": "Matemática",
+      "cor": "red",
+      "link_extra": {
+        "text": "Curso gratuito de Matemática",
+        "url": "https://www.youtube.com/watch?v=GFWuvnML3eU&list=PL83s8LGM84J4mRCdgGKJaZh8KWFU7GgcO"
+      },
+      "videos": [
+        {
+          "titulo": "A Matemática é INÚTIL",
+          "url": "https://www.youtube.com/watch?v=kh5meUTqVhg"
+        },
+        {
+          "titulo": "Matemática Básica",
+          "url": "https://www.youtube.com/watch?v=hTvgLO4fIAw"
+        },
+        {
+          "titulo": "História da Geometria Plana",
+          "url": "https://www.youtube.com/watch?v=9byf5O8y17Y"
+        },
+        {
+          "titulo": "Fractais",
+          "url": "https://www.youtube.com/watch?v=QNXHhgwCBXk"
+        },
+        {
+          "titulo": "Conjectura de Goldbach",
+          "url": "https://www.youtube.com/watch?v=A0Cfv8jCRRA"
+        }
+      ]
+    },
+    {
+      "titulo": "Astronomia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso gratuito de Astronomia",
+        "url": "https://www.youtube.com/playlist?list=PL_my-TwWaWBixtv77UBLlrqSQ4_StZPs1"
+      },
+      "videos": [
+        {
+          "titulo": "O Sistema Solar",
+          "url": "https://www.youtube.com/watch?v=zQvpKm9dCD0"
+        },
+        {
+          "titulo": "Buracos Negros",
+          "url": "https://www.youtube.com/watch?v=4HLFqA9Ejgg"
+        },
+        {
+          "titulo": "Teoria do Big Bang",
+          "url": "https://www.youtube.com/watch?v=Bl8Q7Lt56y0"
+        },
+        {
+          "titulo": "Como descobrir novos planetas",
+          "url": "https://www.youtube.com/watch?v=Hf7DEWvgQmY&t=25s"
+        },
+        {
+          "titulo": "Quantas Galáxias existem no Universo?",
+          "url": "https://www.youtube.com/watch?v=KJkyEU1fvR0"
+        }
+      ]
+    }
+  ]
+}
