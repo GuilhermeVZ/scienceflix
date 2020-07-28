@@ -8,7 +8,10 @@ export const Title = styled.h3`
   margin-bottom: 16px;
   display: inline-block;
   padding: 20px;
-
+  &:hover{
+    background-color: rgba(0,0,0,.5);
+  }
+  transition: 400ms;
   line-height: 1;
   border-radius: 4px;
   border: .1px solid;
