@@ -2,9 +2,10 @@
 import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
+import "../../index.js"
 
 const Container = styled.ul`
-  
+
   padding: 0;
   margin: 0;
   .slick-list { overflow: visible !important; }
@@ -44,8 +45,8 @@ export const SliderItem = styled.li`
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
-      dots: false,
-      infinite: false,
+      dots: true,
+      infinite: true,
       speed: 300,
       centerMode: false,
       variableWidth: true,
@@ -53,6 +54,9 @@ const Slider = ({ children }) => (
     }}
     >
       {children}
+      <span>
+
+      </span>
     </SlickSlider>
   </Container>
 );

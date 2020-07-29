@@ -26,7 +26,7 @@ function Carousel({
 
         </>
       )}
-      
+
       <Slider>
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {
@@ -39,6 +39,7 @@ function Carousel({
                 videoTitle={video.titulo}
                 videoURL={video.url}
                 categoryColor={categoryColor}
+                
               />
             </SliderItem>
           );
