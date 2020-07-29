@@ -23,8 +23,10 @@ function Carousel({
               {categoryExtraLink.text}
             </ExtraLink>
           }
+
         </>
       )}
+      
       <Slider>
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {

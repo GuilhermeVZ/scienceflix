@@ -5,7 +5,7 @@ export const Title = styled.h3`
   font-weight: normal;
   font-size: 35px;
   line-height: 1;
-  margin-bottom: 16px;
+  margin-bottom: 32px;
   display: inline-block;
   padding: 20px;
   &:hover{
@@ -41,10 +41,12 @@ export const VideoCardList = styled.ul`
   margin: 0;
   padding-left: 0;
   padding-bottom: 32px;
+  padding-top: 32px;
   list-style: none;
   display: flex;
   overflow-x: auto;
   flex-direction: row;
+  height: 300px;
 
   li {
     margin-right: 16px;

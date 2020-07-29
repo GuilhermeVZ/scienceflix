@@ -4,10 +4,12 @@ import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
+import { SContainer } from "./styles.js"
 
 function Home() {
   return (
     <div style={{ background: "#141414" }}>
+      <SContainer>
       <Menu />
 
       <BannerMain
@@ -42,6 +44,7 @@ function Home() {
       />
 
       <Footer />
+      </SContainer>
     </div>
   );
 }

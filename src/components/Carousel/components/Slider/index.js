@@ -4,8 +4,10 @@ import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
 const Container = styled.ul`
+  
   padding: 0;
   margin: 0;
+  .slick-list { overflow: visible !important; }
   .slick-prev,
   .slick-next {
     z-index: 50;
