@@ -4,6 +4,7 @@
 }
 
 :root {
+  --logo: rgb(168, 169, 163);
   --primary: #2A7AE4;
   --black: #000000;
   --blackLighter: #9E9E9E;
@@ -21,9 +22,7 @@ body {
 }
 
 div#root {
-  min-height: calc(100vh - var(--bodyPaddingTop));
-  flex-direction: column;
-  display: flex;
+  height: calc(100vh - var(--bodyPaddingTop));
 }
 
 a {

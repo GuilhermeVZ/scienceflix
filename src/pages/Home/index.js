@@ -8,7 +8,7 @@ import { SContainer } from "./styles.js"
 
 function Home() {
   return (
-    <div style={{ background: "#141414" }}>
+
       <SContainer>
       <Menu />
 
@@ -45,7 +45,7 @@ function Home() {
 
       <Footer />
       </SContainer>
-    </div>
+
   );
 }
 

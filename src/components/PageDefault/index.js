@@ -10,15 +10,21 @@ const Main = styled.main`
   flex: 1;
 `
 
+const DivCont = styled.div`
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - var(--bodyPaddingTop));
+`
+
 function PageDefault({ children }) {
   return (
-    <>
+    <DivCont>
       <Menu/>
       <Main>
         { children }
       </Main>
       <Footer/>
-    </>
+    </DivCont>
   )
 }
 
