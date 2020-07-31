@@ -9,7 +9,7 @@ function Footer() {
         <img src={Logo} class="imagemFooter" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado por Guilherme Vieira (@guilhermeziivo) durante a
+        Orgulhosamente criado por @guilhermeziivo durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
