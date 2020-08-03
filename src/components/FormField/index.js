@@ -29,7 +29,7 @@ Label.Text = styled.span`
   font-style: normal;
   font-weight: 300;
 
-  transition: .1s ease-in-out;
+  transition: .3s ease-in-out;
 `;
 
 const Input = styled.input`
