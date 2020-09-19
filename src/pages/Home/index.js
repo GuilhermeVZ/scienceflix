@@ -15,7 +15,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={`O que é a Ciência? O Método Científico é uma das maiores criações da humanidade, com ele somos capazes de entender o mundo macroscópico e microscópico, desde os átomos ao cosmos. O conhecimento humano é procedual e, por isso, exige que acreditemos no que foi antes descoberto.\n Seria então a ciência uma questão de fé?`}
+        videoDescription={`O que é a Ciência? O Método Científico é uma das maiores criações da humanidade, com ele somos capazes de entender o mundo macroscópico e microscópico, desde os átomos ao cosmos. “Não é possível convencer um crente de coisa alguma, pois suas crenças não se baseiam em evidências; baseiam-se numa profunda necessidade de acreditar” - Carl Sagan \n Seria a ciência uma questão de fé?`}
       />
 
       <Carousel
